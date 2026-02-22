@@ -36,17 +36,11 @@ Understand seasonal trends
 
 
 Technology   -- 	Purpose
-
 🐍 Python	Core -  Programming
-
 Pandas -	Data Cleaning & Manipulation
-
 NumPy	- Numerical Operations
-
 Matplotlib -	Data Visualization
-
 Seaborn - 	Advanced Statistical Plots
-
 Jupyter Notebook	- Analysis & Reporting
 
 
@@ -78,6 +72,7 @@ Zepto-Sales-Analysis/
 ✔ Visualized using bar charts
 
 🔎 Insight:
+
 A small group of products contributes disproportionately to total revenue — indicating strong product-market fit.
 
 2️⃣ Monthly Revenue Trend
@@ -89,6 +84,7 @@ A small group of products contributes disproportionately to total revenue — in
 ✔ Visualized with line & area charts
 
 🔎 Insight:
+
 Clear seasonal patterns observed. Revenue spikes indicate promotional or festive impact.
 
 3️⃣ City-wise Sales Performance
@@ -99,6 +95,7 @@ Clear seasonal patterns observed. Revenue spikes indicate promotional or festive
 ✔ Created comparative bar charts
 
 🔎 Insight:
+
 Certain metropolitan cities generate significantly higher revenue — potential focus zones for expansion.
 
 4️⃣ Category-wise Sales Analysis
@@ -109,6 +106,7 @@ Certain metropolitan cities generate significantly higher revenue — potential 
 ✔ Aggregated revenue by category
 
 🔎 Insight:
+
 Essential grocery categories outperform luxury or niche categories — indicating necessity-driven purchases.
 
 5️⃣ Delivery Performance Analysis
@@ -119,6 +117,7 @@ Essential grocery categories outperform luxury or niche categories — indicatin
 ✔ Used violin plots to analyze distribution
 
 🔎 Insight:
+
 Delayed deliveries show higher variability in delivery time.
 Operational optimization opportunities identified.
 
