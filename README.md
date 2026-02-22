@@ -13,15 +13,10 @@ The objective is to simulate a real-world business scenario and extract actionab
 The project covers:
 
 ✔ Data Cleaning & Preprocessing
-
 ✔ Exploratory Data Analysis (EDA)
-
 ✔ Revenue Trend Analysis
-
 ✔ Customer & City Performance Insights
-
 ✔ Delivery Performance Evaluation
-
 ✔ Interactive 3×3 Business Dashboard
 
 This project demonstrates how raw sales data can be transformed into meaningful business decisions.
@@ -29,26 +24,18 @@ This project demonstrates how raw sales data can be transformed into meaningful 
 🏢 About Zepto
 
 Zepto is a fast-growing Indian quick-commerce startup that delivers groceries in minutes.
-
 This project simulates how a company like Zepto can use data analytics to:
-
 Improve delivery efficiency
-
 Identify top-performing products
-
 Track revenue growth
-
 Optimize city-wise operations
-
 Understand seasonal trends
-
 
 
 🛠️ Tech Stack
 
 
 Technology   -- 	Purpose
-
 
 🐍 Python	Core -  Programming
 
@@ -142,22 +129,15 @@ Operational optimization opportunities identified.
 A complete analytics dashboard containing:
 
 Bar Charts
-
 Line Charts
-
 Area Chart
-
 Count Plots
-
 Distribution Analysis
-
 Category Performance
-
 City Comparison
-
 Order Status Distribution
-
 Delivery Time Insights
+
 
 📸 Dashboard Preview:
 
@@ -188,31 +168,22 @@ Data Visualization :
 Contains:
 
 Order ID
-
 Order Date
-
 Product ID
-
 Quantity
-
 Total Amount
-
 City
-
 Delivery Status
-
 Delivery Time
+
 
 🗂 zepto_products.csv
 
 Contains:
 
 Product ID
-
 Product Name
-
 Category
-
 Price
 
 
@@ -231,17 +202,11 @@ ZeptoSalesProject.ipynb
 🎯 Skills Demonstrated
 
 ✔ Data Cleaning & Wrangling
-
 ✔ Exploratory Data Analysis (EDA)
-
 ✔ Business Insight Extraction
-
 ✔ Data Visualization
-
 ✔ Dashboard Creation
-
 ✔ Problem-Solving Using Data
-
 ✔ Python for Analytics
 
 
