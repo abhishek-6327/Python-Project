@@ -41,11 +41,17 @@ Understand seasonal trends
 
 
 Technology   -- 	Purpose
+
 🐍 Python	Core -  Programming
+
 Pandas -	Data Cleaning & Manipulation
+
 NumPy	- Numerical Operations
+
 Matplotlib -	Data Visualization
+
 Seaborn - 	Advanced Statistical Plots
+
 Jupyter Notebook	- Analysis & Reporting
 
 
