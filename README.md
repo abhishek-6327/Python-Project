@@ -1,6 +1,11 @@
 🛒 Zepto Sales Data Analysis
+
+
 📊 End-to-End Exploratory Data Analysis & Business Intelligence Project
+
+
 🚀 Project Overview
+
 
 This project presents a complete Sales Data Analysis of an Indian quick-commerce platform inspired by Zepto.
 The objective is to simulate a real-world business scenario and extract actionable insights using Python-based data analytics tools.
@@ -37,6 +42,8 @@ Optimize city-wise operations
 
 Understand seasonal trends
 
+
+
 🛠️ Tech Stack
 Technology	Purpose
 🐍 Python	Core Programming
@@ -45,6 +52,8 @@ NumPy	Numerical Operations
 Matplotlib	Data Visualization
 Seaborn	Advanced Statistical Plots
 Jupyter Notebook	Analysis & Reporting
+
+
 📂 Project Structure
 Zepto-Sales-Analysis/
 │
@@ -58,6 +67,8 @@ Zepto-Sales-Analysis/
 └── README.md
 📊 Key Analysis & Insights
 1️⃣ Top 5 Products by Revenue
+
+
 
 📌 Objective: Identify the highest revenue-generating products
 
@@ -110,6 +121,8 @@ Essential grocery categories outperform luxury or niche categories — indicatin
 Delayed deliveries show higher variability in delivery time.
 Operational optimization opportunities identified.
 
+
+
 6️⃣ 📊 3×3 Revenue Dashboard
 
 A complete analytics dashboard containing:
@@ -136,6 +149,8 @@ Delivery Time Insights
 
 This dashboard simulates real-world BI reporting used in startups.
 
+
+
 📈 Business Impact
 
 This analysis helps management to:
@@ -146,6 +161,8 @@ This analysis helps management to:
 ✔ Plan inventory better
 ✔ Forecast revenue trends
 ✔ Improve operational efficiency
+
+
 
 📊 Dataset Information
 🗂 zepto_sales.csv
@@ -184,6 +201,8 @@ Category
 
 Price
 
+
+
 ⚙️ How To Run This Project
 1️⃣ Clone Repository
 git clone https://github.com/your-username/Zepto-Sales-Analysis.git
@@ -211,6 +230,8 @@ ZeptoSalesProject.ipynb
 
 ✔ Python for Analytics
 
+
+
 👨‍💻 Author
 
 Abhishek Kumar
@@ -218,6 +239,7 @@ Python | Data Analysis | SQL | Data Visualization
 
 🔗 LinkedIn:
 https://www.linkedin.com/in/abhishek-kumar-83409133b
+
 
 🌟 If You Like This Project
 
