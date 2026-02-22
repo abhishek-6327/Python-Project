@@ -1,134 +1,226 @@
-🛒 Zepto Sales Data Analysis Project
+🛒 Zepto Sales Data Analysis
+📊 End-to-End Exploratory Data Analysis & Business Intelligence Project
+🚀 Project Overview
 
-📌 Project Overview
+This project presents a complete Sales Data Analysis of an Indian quick-commerce platform inspired by Zepto.
+The objective is to simulate a real-world business scenario and extract actionable insights using Python-based data analytics tools.
 
-This project analyzes sales data of Zepto (Quick Commerce Platform) to extract meaningful business insights using Python, Pandas, Matplotlib, and Seaborn.
-The objective of this project is to:
-  - Perform data cleaning and preprocessing
-  - Analyze sales performance
-  - Visualize trends and patterns
-  - Generate business insights
+The project covers:
 
-🚀 About Zepto
+✔ Data Cleaning & Preprocessing
 
-Zepto is an Indian quick-commerce startup that delivers groceries in minutes.
-This project simulates real-world sales data analysis for a fast-growing e-commerce company like Zepto.
+✔ Exploratory Data Analysis (EDA)
 
-🛠️ Technologies Used
+✔ Revenue Trend Analysis
 
-Python 🐍
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Jupyter Notebook
+✔ Customer & City Performance Insights
 
+✔ Delivery Performance Evaluation
+
+✔ Interactive 3×3 Business Dashboard
+
+This project demonstrates how raw sales data can be transformed into meaningful business decisions.
+
+🏢 About Zepto
+
+Zepto is a fast-growing Indian quick-commerce startup that delivers groceries in minutes.
+
+This project simulates how a company like Zepto can use data analytics to:
+
+Improve delivery efficiency
+
+Identify top-performing products
+
+Track revenue growth
+
+Optimize city-wise operations
+
+Understand seasonal trends
+
+🛠️ Tech Stack
+Technology	Purpose
+🐍 Python	Core Programming
+Pandas	Data Cleaning & Manipulation
+NumPy	Numerical Operations
+Matplotlib	Data Visualization
+Seaborn	Advanced Statistical Plots
+Jupyter Notebook	Analysis & Reporting
 📂 Project Structure
-
 Zepto-Sales-Analysis/
 │
-├── ZeptoSalesProject.ipynb
-├── zepto_sales.csv
-├── zepto_products.csv
+├── ZeptoSalesProject.ipynb        # Main Analysis Notebook
+├── zepto_sales.csv                # Sales Dataset
+├── zepto_products.csv             # Product Dataset
 ├── images/
 │   ├── dashboard.png
 │   ├── monthly_sales.png
 │   └── top_products.png
 └── README.md
+📊 Key Analysis & Insights
+1️⃣ Top 5 Products by Revenue
 
-📊 Key Analysis Performed
-1️⃣ Top 5 Products by Sales
+📌 Objective: Identify the highest revenue-generating products
 
-Identified highest revenue generating products
+✔ Grouped data by product
+✔ Calculated total revenue
+✔ Visualized using bar charts
 
-Used bar chart visualization
+🔎 Insight:
+A small group of products contributes disproportionately to total revenue — indicating strong product-market fit.
 
-2️⃣ Monthly Sales Trend
+2️⃣ Monthly Revenue Trend
 
-Analyzed revenue month-wise
+📌 Objective: Understand sales growth over time
 
-Line chart for trend analysis
+✔ Converted order dates into monthly periods
+✔ Aggregated monthly revenue
+✔ Visualized with line & area charts
 
-3️⃣ Sales by City
+🔎 Insight:
+Clear seasonal patterns observed. Revenue spikes indicate promotional or festive impact.
 
-Compared performance across cities
+3️⃣ City-wise Sales Performance
 
-Bar chart visualization
+📌 Objective: Compare demand across cities
 
-4️⃣ Category-wise Sales
+✔ Grouped sales by city
+✔ Created comparative bar charts
 
-Identified most profitable product categories
+🔎 Insight:
+Certain metropolitan cities generate significantly higher revenue — potential focus zones for expansion.
+
+4️⃣ Category-wise Sales Analysis
+
+📌 Objective: Identify most profitable categories
+
+✔ Merged product & sales datasets
+✔ Aggregated revenue by category
+
+🔎 Insight:
+Essential grocery categories outperform luxury or niche categories — indicating necessity-driven purchases.
 
 5️⃣ Delivery Performance Analysis
 
-Compared delivery time with order status
+📌 Objective: Evaluate delivery efficiency
 
-Used violin plot
+✔ Compared delivery time vs order status
+✔ Used violin plots to analyze distribution
 
-6️⃣ Revenue Dashboard (3×3 Grid)
+🔎 Insight:
+Delayed deliveries show higher variability in delivery time.
+Operational optimization opportunities identified.
 
-Created a complete sales dashboard containing:
+6️⃣ 📊 3×3 Revenue Dashboard
 
-Bar charts
+A complete analytics dashboard containing:
 
-Line charts
+Bar Charts
 
-Area chart
+Line Charts
 
-Count plots
+Area Chart
 
-📸 Project Visualizations
+Count Plots
 
-<img width="1163" height="974" alt="image" src="https://github.com/user-attachments/assets/a7275c74-f3ec-4ad5-b87e-53e6c64eb97c" />
+Distribution Analysis
 
-📈 Business Insights
+Category Performance
 
-✔️ Identified top-performing products
-✔️ Found high-revenue months
-✔️ Analyzed city-wise demand
-✔️ Evaluated delivery efficiency
-✔️ Detected seasonal trends
+City Comparison
 
-⚙️ How to Run This Project
-1️⃣ Clone the Repository
+Order Status Distribution
+
+Delivery Time Insights
+
+📸 Dashboard Preview:
+
+This dashboard simulates real-world BI reporting used in startups.
+
+📈 Business Impact
+
+This analysis helps management to:
+
+✔ Optimize top-performing products
+✔ Improve underperforming cities
+✔ Reduce delayed deliveries
+✔ Plan inventory better
+✔ Forecast revenue trends
+✔ Improve operational efficiency
+
+📊 Dataset Information
+🗂 zepto_sales.csv
+
+Data Visualization :
+<img width="1163" height="974" alt="Screenshot 2026-02-22 174711" src="https://github.com/user-attachments/assets/6fe78eec-2c50-4276-aa1d-ffb51c904c1b" />
+
+
+Contains:
+
+Order ID
+
+Order Date
+
+Product ID
+
+Quantity
+
+Total Amount
+
+City
+
+Delivery Status
+
+Delivery Time
+
+🗂 zepto_products.csv
+
+Contains:
+
+Product ID
+
+Product Name
+
+Category
+
+Price
+
+⚙️ How To Run This Project
+1️⃣ Clone Repository
 git clone https://github.com/your-username/Zepto-Sales-Analysis.git
-2️⃣ Install Required Libraries
+2️⃣ Install Dependencies
 pip install pandas numpy matplotlib seaborn
-3️⃣ Run the Jupyter Notebook
+3️⃣ Run Notebook
 jupyter notebook
 
 Open:
 
 ZeptoSalesProject.ipynb
-📊 Dataset Information
+🎯 Skills Demonstrated
 
-zepto_sales.csv → Contains order details, revenue, delivery status
+✔ Data Cleaning & Wrangling
 
-zepto_products.csv → Contains product category and pricing information
+✔ Exploratory Data Analysis (EDA)
 
-🎯 Project Skills Demonstrated
+✔ Business Insight Extraction
 
-Data Cleaning
+✔ Data Visualization
 
-Exploratory Data Analysis (EDA)
+✔ Dashboard Creation
 
-Data Visualization
+✔ Problem-Solving Using Data
 
-Business Problem Solving
-
-Dashboard Creation
-
-Python Programming
+✔ Python for Analytics
 
 👨‍💻 Author
 
 Abhishek Kumar
-Python | Data Analysis | SQL | Visualization
+Python | Data Analysis | SQL | Data Visualization
 
-🔗 LinkedIn: www.linkedin.com/in/abhishek-kumar-83409133b
+🔗 LinkedIn:
+https://www.linkedin.com/in/abhishek-kumar-83409133b
 
-⭐ If You Like This Project
+🌟 If You Like This Project
 
-Give this repository a ⭐ on GitHub!
+If you found this project useful or insightful, please consider giving it a ⭐ on GitHub.
 
-
+It motivates me to build more real-world data projects.
