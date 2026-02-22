@@ -13,10 +13,15 @@ The objective is to simulate a real-world business scenario and extract actionab
 The project covers:
 
 ✔ Data Cleaning & Preprocessing
+
 ✔ Exploratory Data Analysis (EDA)
+
 ✔ Revenue Trend Analysis
+
 ✔ Customer & City Performance Insights
+
 ✔ Delivery Performance Evaluation
+
 ✔ Interactive 3×3 Business Dashboard
 
 This project demonstrates how raw sales data can be transformed into meaningful business decisions.
@@ -67,8 +72,11 @@ Zepto-Sales-Analysis/
 
 📌 Objective: Identify the highest revenue-generating products
 
+
 ✔ Grouped data by product
+
 ✔ Calculated total revenue
+
 ✔ Visualized using bar charts
 
 🔎 Insight:
@@ -80,7 +88,9 @@ A small group of products contributes disproportionately to total revenue — in
 📌 Objective: Understand sales growth over time
 
 ✔ Converted order dates into monthly periods
+
 ✔ Aggregated monthly revenue
+
 ✔ Visualized with line & area charts
 
 🔎 Insight:
@@ -92,6 +102,7 @@ Clear seasonal patterns observed. Revenue spikes indicate promotional or festive
 📌 Objective: Compare demand across cities
 
 ✔ Grouped sales by city
+
 ✔ Created comparative bar charts
 
 🔎 Insight:
@@ -103,6 +114,7 @@ Certain metropolitan cities generate significantly higher revenue — potential 
 📌 Objective: Identify most profitable categories
 
 ✔ Merged product & sales datasets
+
 ✔ Aggregated revenue by category
 
 🔎 Insight:
@@ -114,6 +126,7 @@ Essential grocery categories outperform luxury or niche categories — indicatin
 📌 Objective: Evaluate delivery efficiency
 
 ✔ Compared delivery time vs order status
+
 ✔ Used violin plots to analyze distribution
 
 🔎 Insight:
