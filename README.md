@@ -65,12 +65,11 @@ Jupyter Notebook	- Analysis & Reporting
 
 📂 Project Structure
 
-
 Zepto-Sales-Analysis/
 │
-├── ZeptoSalesProject.ipynb       
-├── zepto_sales.csv               
-├── zepto_products.csv             
+├── ZeptoSalesProject.ipynb
+├── zepto_sales.csv
+├── zepto_products.csv
 ├── images/
 │   ├── dashboard.png
 │   ├── monthly_sales.png
