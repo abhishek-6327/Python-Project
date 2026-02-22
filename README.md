@@ -45,27 +45,42 @@ Understand seasonal trends
 
 
 🛠️ Tech Stack
-Technology	Purpose
-🐍 Python	Core Programming
-Pandas	Data Cleaning & Manipulation
-NumPy	Numerical Operations
-Matplotlib	Data Visualization
-Seaborn	Advanced Statistical Plots
-Jupyter Notebook	Analysis & Reporting
+
+
+Technology   -- 	Purpose
+
+
+🐍 Python	Core -  Programming
+
+Pandas -	Data Cleaning & Manipulation
+
+NumPy	- Numerical Operations
+
+Matplotlib -	Data Visualization
+
+Seaborn - 	Advanced Statistical Plots
+
+Jupyter Notebook	- Analysis & Reporting
 
 
 📂 Project Structure
+
+
 Zepto-Sales-Analysis/
 │
-├── ZeptoSalesProject.ipynb        # Main Analysis Notebook
-├── zepto_sales.csv                # Sales Dataset
-├── zepto_products.csv             # Product Dataset
+├── ZeptoSalesProject.ipynb       
+├── zepto_sales.csv               
+├── zepto_products.csv             
 ├── images/
 │   ├── dashboard.png
 │   ├── monthly_sales.png
 │   └── top_products.png
 └── README.md
+
+
 📊 Key Analysis & Insights
+
+
 1️⃣ Top 5 Products by Revenue
 
 
