@@ -125,6 +125,8 @@ Python Programming
 Abhishek Kumar
 Python | Data Analysis | SQL | Visualization
 
+🔗 LinkedIn: www.linkedin.com/in/abhishek-kumar-83409133b
+
 ⭐ If You Like This Project
 
 Give this repository a ⭐ on GitHub!
